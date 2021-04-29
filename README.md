@@ -10,5 +10,7 @@ pip install -r requirements.txt
  - open a terminal and activate desired environment
  
 conda activate hackathon
+
 conda install -c anaconda ipykernel
+
 python -m ipykernel install --user --name=hackathon
