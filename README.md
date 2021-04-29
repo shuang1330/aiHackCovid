@@ -1,0 +1,2 @@
+# aiHackCovid
+Example Hackathon Submission
