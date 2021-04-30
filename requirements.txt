@@ -34,6 +34,7 @@ Jinja2==2.11.3
 joblib==1.0.1
 jsonschema==3.2.0
 jupyter==1.0.0
+jupyter-cjk-xelatex==0.2
 jupyter-client==6.1.12
 jupyter-console==6.4.0
 jupyter-core==4.7.1
