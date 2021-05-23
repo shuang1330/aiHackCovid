@@ -13,7 +13,7 @@ https://docs.conda.io/projects/conda/en/latest/user-guide/install/macos.html
 ### Linux
 https://docs.conda.io/projects/conda/en/latest/user-guide/install/linux.html
 
-# Location
+# Example code
 nb_versions/trifecta_notebooks -> The three notebooks can be found here.
 
 i)
