@@ -40,11 +40,11 @@ sudo apt-get install texlive-xetex
 # Example code
 nb_versions/trifecta_notebooks -> The three notebooks can be found here.
 
-##i)
+## i)
 The first notebook shows some simple ways of tackling the dataset and visualize the tables involved.
 
-##ii)
+## ii)
 The second notebook shows some simple plotting techniques and how to further investigate relationship between different variables.
 
-##iii)
+## iii)
 The third notebook shows how to deploy some statistical tests to try and prove some correlation between variables so as to build an argument or conclusion regarding the available data. 
