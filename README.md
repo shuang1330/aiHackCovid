@@ -2,17 +2,12 @@
 Example Hackathon Submission, example code and installation guideline.
 
 # START HERE
-First we would advise you to use conda and furthermore jupyter notebook. Further down in this document you can find the commands required to get to a working conda environment that is linked to jupyter notebook. 
+First we would advise you to use conda and furthermore jupyter notebook. Further down in this document you can find the commands (on ubuntu) required to get to a working conda environment that is linked to jupyter notebook. 
 But first you need to install conda and jupyter notebook:
 ## Jupyter
 https://jupyter.org/
 
 ## Conda
-https://docs.conda.io/projects/conda/en/latest/user-guide/install/download.html
-### Windows
-https://docs.conda.io/projects/conda/en/latest/user-guide/install/windows.html
-### macOS
-https://docs.conda.io/projects/conda/en/latest/user-guide/install/macos.html
 ### Linux
 https://docs.conda.io/projects/conda/en/latest/user-guide/install/linux.html
 
