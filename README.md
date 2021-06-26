@@ -1,5 +1,6 @@
 # aiHackCovid
-Example Hackathon Submission, example code and installation guideline.
+### Team 5: Presentation
+https://docs.google.com/presentation/d/1oaLLuYdHBaCXsbepXuGd3SX5yG5wN1tO0p2BLephV4E/edit?usp=sharing
 
 # START HERE
 First we would advise you to use conda and furthermore jupyter notebook. Further down in this document you can find the commands (on ubuntu) required to get to a working conda environment that is linked to jupyter notebook. 
